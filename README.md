@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASWINKLR
+- 👋 Hi, I’m @ASWIN
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning web designing,ethical hacking
 - 💞️ I’m looking to collaborate on ...
