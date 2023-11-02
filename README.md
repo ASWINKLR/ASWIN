@@ -5,6 +5,6 @@
 - 📫 How to reach me aswin1901@outlook.com
 
 <!---
-ASWINKLR/ASWINKLR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASWIN/ASWIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
